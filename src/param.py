@@ -6,7 +6,7 @@ import os
 import ipdb
 
 ## -_ データセット
-TRAIN_DATA_PATH = "./nput/cifar-10-raw/train"
+TRAIN_DATA_PATH = "./input/cifar-10-raw/train"
 VALIDATION_DATA_PATH = "./input/cifar-10-raw/validation"
 ## _-
 
